@@ -1,0 +1,11 @@
+streamlit
+numpy
+faiss-cpu
+requests
+google-generativeai
+pdfplumber
+matplotlib
+wordcloud
+textblob
+textstat
+pillow
